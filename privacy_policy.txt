@@ -1,0 +1,37 @@
+Gizlilik Politikası
+
+Next uygulaması, kullanıcı gizliliğine önem verir. Bu gizlilik politikası, uygulamanın kullanıcı verilerini nasıl topladığı, kullandığı ve koruduğu hakkında bilgi sunar.
+
+Toplanan Veriler ve Erişimler:
+
+Telefon numarası ve kullanıcı bilgileri: Uygulamaya kayıt olurken yalnızca telefon numarası alınır. Kullanıcı adı ve profil resmi isteğe bağlıdır.
+
+Kamera ve Mikrofon: Görüntülü ve sesli arama, medya gönderme işlemleri için kamera ve mikrofon erişimi istenir. Bu erişimler yalnızca kullanıcı isteğiyle aktif olur.
+
+Medya ve Dosyalar: Kullanıcılar mesaj, fotoğraf, video ve belge gönderebilir. Bu içerikler şifrelenerek iletilir ve cihaz dışında saklanmaz.
+
+Rehber Erişimi (isteğe bağlı): Kullanıcıların mevcut kişilerle iletişim kurabilmesi için rehber erişimi sağlanabilir. Bu bilgiler sunucuda saklanmaz.
+
+Bildirimler: Uygulama, gelen mesaj ve çağrılar için bildirim gönderir. Bu bildirimler işletim sistemi aracılığıyla iletilir.
+
+Uçtan Uca Şifreleme:
+
+Tüm mesajlar, fotoğraflar, videolar, sesli ve görüntülü aramalar uçtan uca şifrelenmektedir. Bu, iletilerin yalnızca gönderen ve alıcı tarafından okunabileceği ya da erişilebileceği anlamına gelir. Uygulama geliştiricileri veya üçüncü taraflar mesaj içeriğine erişemez.
+
+13 Yaş Altı Kullanıcılar:
+
+Uygulama, 13 yaş altı çocuklar için özel olarak tasarlanmamıştır. Bu yaş grubundan bilerek bilgi toplanmaz.
+
+Veri Güvenliği:
+
+Kişisel veriler minimum düzeyde tutulur. Sunucu tarafında yalnızca kimlik doğrulama için telefon numarası ve zaman damgası saklanabilir. Mesaj içerikleri, çağrı verileri ve medya dosyaları sunucularda saklanmaz. Tüm veriler güvenli aktarım protokolleri (SSL/TLS) kullanılarak korunur.
+
+Gizlilik Politikası Güncellemeleri:
+
+Bu politika zaman zaman güncellenebilir. Değişiklikler uygulama içinde ve/veya bu sayfada duyurulur. Politikada önemli değişiklikler olması durumunda kullanıcıdan yeniden onay istenebilir.
+
+İletişim:
+
+Bu gizlilik politikasıyla ilgili herhangi bir sorunuz varsa bizimle iletişime geçebilirsiniz: abbgsmky@gmail.com
+
+Tarih: 21 Mart 2025
